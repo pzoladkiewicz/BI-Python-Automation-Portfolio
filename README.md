@@ -30,6 +30,7 @@ Senior BI Developer specjalizujący się w **Tableau**, **Power BI** oraz zaawan
 - **NBP Currency Tracker** - Automatyczne pobieranie kursów walut z API NBP
 - **Report Scheduler** - System automatycznego generowania raportów
 - **Data Quality Monitor** - Monitoring jakości danych w czasie rzeczywistym
+- **Smart File Organizer** - Automatyczne sortowanie plików według typu, rozmiaru i daty utworzenia
 
 ### 📈 Dashboards & Visualizations
 - **Executive KPI Dashboard** - Tableau dashboard dla zarządu

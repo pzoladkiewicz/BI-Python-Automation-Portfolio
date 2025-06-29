@@ -92,6 +92,9 @@ python main.py
 
 ## 🎓 Certyfikacje
 
+- 🏆 MCSA: SQL Server 2012/2014 - Certified 2016
+- 🏆 Tableau Analyst - 2020
+- 🏆 Tableau Author - 2020
 - 🏆 Tableau Desktop Specialist (planowane: wrzesień 2025)
 - 🏆 Power BI PL-300 (planowane: listopad 2025)
 - 🏆 Python Institute PCAP (planowane: grudzień 2025)

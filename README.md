@@ -84,16 +84,16 @@ python main.py
 
 ## 📈 Metryki Portfolio
 
-- **15+ projektów** Python automation
-- **25+ dashboards** Tableau/Power BI
+- **15+ projektów** Python automation - w produkcji
+- **100+ dashboards** Tableau/Power BI
 - **100%** test coverage w kluczowych projektach
-- **5+ API integrations** w produkcji
+- **5+ API integrations** - w produkcji
 
 ## 🎓 Certyfikacje
 
-- 🏆 Tableau Desktop Specialist (planowane: lipiec 2025)
-- 🏆 Power BI PL-300 (planowane: wrzesień 2025)
-- 🏆 Python Institute PCAP (planowane: listopad 2025)
+- 🏆 Tableau Desktop Specialist (planowane: wrzesień 2025)
+- 🏆 Power BI PL-300 (planowane: listopad 2025)
+- 🏆 Python Institute PCAP (planowane: grudzień 2025)
 
 ## 📞 Kontakt
 
